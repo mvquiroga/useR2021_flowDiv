@@ -1,5 +1,5 @@
 # useR2021_flowDiv
 
-The link to my presentation at #useR2021 is:
+Link to the slides of the #useR! 2021 Conference:
 
 [https://mvquiroga.github.io/useR2021_flowDiv](https://mvquiroga.github.io/useR2021_flowDiv)
